@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Smitan Pradhan"
-  avatar           : "/images/Profile_Pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/Profile_Pic.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "Melbourne, Australia"
   email            :
