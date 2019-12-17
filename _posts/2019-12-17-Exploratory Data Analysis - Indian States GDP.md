@@ -7,5 +7,3 @@ excerpt: "Hello how are you doing?"
 # Data Visualization using scikit learn
 
 # This helped get a sense of how indian states are performing
-
-[link](https://github.com/dataoptimal/github-pages-tutorial)
