@@ -2,7 +2,7 @@
 title: "Exploratory Data Analysis - Indian States GDP"
 date: 2019-12-17
 tags: [EDA, GDP, analysis, exploratory data analysis, data science]
-excerpt: "Hello how are you doing?"
+excerpt: "Taking a deeper look into how the states have been performing over the years"
 ---
 Data Visualization using scikit learn
 
