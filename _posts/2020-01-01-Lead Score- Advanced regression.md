@@ -1,5 +1,5 @@
 ---
-title: "Predicting the right customers - Simple Logistic Regression"
+title: "Assigning lead score to customers in Telecom Industry - Simple Logistic Regression"
 date: 2020-01-01
 tags: [EDA, lead scoring, analysis, exploratory data analysis, data science, logistic Regression, Machine Learning, Supervised Learning]
 excerpt: "Assigning a lead score to each customer and identifying the key causes for their score "
@@ -12,4 +12,6 @@ Problem Statement: To build a model wherein we need to assign a lead score to ea
 
 Also, discuss the important variables which are behind high lead scores
 
-[link] https://github.com/Smitan94/Data-Science/blob/master/Logistic%20Regression%20-%20Lead%20Score.ipynb
+[Link to the project code](https://github.com/Smitan94/Data-Science/blob/master/Logistic%20Regression%20-%20Lead%20Score.ipynb)
+
+This case study has been completed with the help of my team mate Koushal Deshpande. Thanks Koushal for your help and your key insights!

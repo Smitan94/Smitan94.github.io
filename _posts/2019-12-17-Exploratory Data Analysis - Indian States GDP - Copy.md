@@ -6,6 +6,6 @@ excerpt: "Taking a deeper look into how the states have been performing over the
 ---
 Data Visualization using scikit learn
 
-This helped get a sense of how indian states are performing
+This helped get a sense of how Indian states are performing
 
-[link](https://github.com/Smitan94/Data-Science/blob/master/GDP_Analysis_-_Workbook%5B1%5D.ipynb)
+[Link to the project code](https://github.com/Smitan94/Data-Science/blob/master/GDP_Analysis_-_Workbook%5B1%5D.ipynb)

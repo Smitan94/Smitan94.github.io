@@ -8,4 +8,4 @@ Data Visualization using scikit learn
 
 The most important variables affecting the car prices
 
-[link](https://github.com/Smitan94/Data-Science/blob/master/Linear%20Regression%20-%20Predicting%20Car%20Price.ipynb)
+[Link to the project code](https://github.com/Smitan94/Data-Science/blob/master/Linear%20Regression%20-%20Predicting%20Car%20Price.ipynb)
