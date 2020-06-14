@@ -1,7 +1,6 @@
 ---
 title: "COVID-19 Knowledge Distiller"
 date: 2020-01-06
-tags: [Deep Learning, Neural Network, CNN, RNN, Supervised Learning]
 tags: [NLP, Search Engine, Bio-Medical Data Mining,Epidemiology, Clinical Research]
 excerpt: "To search through 45K research articles and generate insights to help medical teams fight the pandemic "
 ---
