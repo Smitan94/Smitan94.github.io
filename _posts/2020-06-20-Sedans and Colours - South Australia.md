@@ -12,9 +12,9 @@ Aim: While the primary aim was to identify the popularity of each brand along wi
 
 Key Insights - 
 
-According to this [report](https://www.axalta.com/gb/en_GB/news-releases/axalta-2019-color-popularity-report.html), white dominates the overall car market with approximately 38% market share while black is a distant second with 19% of the market share. Gray and Silver are third and fourth most prevalent colours respectively. Overall these four colours, together represent 80% of the total car market share. I wanted to see if similar trends are followed in South Australia as well.
+According to this [report](https://www.axalta.com/gb/en_GB/news-releases/axalta-2019-color-popularity-report.html), white dominates the overall car market globally with approximately 38% market share while black is a distant second with 19% of the market share. Gray and Silver are third and fourth most prevalent colours respectively. Overall these four colours, together represent 80% of the total car market share. I wanted to see if similar trends are followed in South Australia as well.
 
-* Holden Cars (once a marque Australian Automobile company and soon to be retired entirely) is still the most popular car down south
+* Holden Cars (once a marque Australian Automobile company and soon to be retired entirely) is the most popular car down south
 
 * Like rest of the world, South Australians also prefer white sedans the most, however, non-traditional colours such red and blue are also widely popular 
 
